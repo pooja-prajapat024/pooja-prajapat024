@@ -1,4 +1,4 @@
-👋 Hi, I’m Pooja Prajapat
+👋 Hi, I’m Pooja
 
 👀 I’m interested in:
 Full Stack Development, Front-End Engineering, UI/UX Design, and building scalable, high-performance web applications.
